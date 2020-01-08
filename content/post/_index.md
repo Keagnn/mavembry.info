@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: "What is the difference between GlideRecord and GlideAggregate?"
 
 # View.
 #   1 = List

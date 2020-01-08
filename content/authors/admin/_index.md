@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a computer nerd, developer, and a mechanic.
+bio: Web development && ServiceNow
 
 interests:
 - Web Development
