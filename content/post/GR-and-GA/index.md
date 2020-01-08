@@ -71,7 +71,7 @@ I'm sure there are obvious differentiators by now, but what is really the differ
 <br>
 
 There are alternatives to using GlideAgregate, but the options are slim to none. You can either use the `getRowCount()` method from GlideRecord, or just use GlideAggregate.
-Using GlideRecord to count rows of records will cause scalability issues as tables can grow over time. This method retrieves every record and counts them. GlideAggregate retrieves the data from the actual database that's built in to ServiceNow, which is much faster when it comes to performance.
+Using GlideRecord to count rows of records will cause scalability issues as tables can grow over time. This method retrieves every record and counts them. GlideAggregate retrieves the data from the actual [MySQL](https://www.mysql.com/) database that's built in to ServiceNow, which is much faster when it comes to performance.
 <br>
 <br>
 _The GlideAggregate class is an extension of GlideRecord and allows database aggregation (COUNT, SUM, MIN, MAX, AVG) queries to be done. This can be helpful in creating customized reports or in calculations for calculated fields. [read more](https://docs.servicenow.com/bundle/jakarta-application-development/page/script/glide-server-apis/concept/c_GlideAggregate.html)_
