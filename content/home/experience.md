@@ -18,27 +18,46 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "ServiceNow Developer"
+  company = "Technology Spa"
+  company_url = "https://www.technologyspa.com/"
+  location = "Texas"
+  date_start = "2018-10-08"
   date_end = ""
   description = """
-  Responsibilities include:
+  Responsibilities include:  
+  <br>
+
+*    Responsible for communicating and delivering solutions to all Technology Spa clients.
+*    Developed and managed multiple service catalogs with complex workflows and processes.
+*    Configured many complex forms and tables with client scripts, business rules, UI actions and more.
+*    Created catalog items, variable sets, catalog client scripts, workflows, SLA’s, and notifications.
+*    Imported and created countless knowledge articles.
+*    Built an event management application that can receive logs from any specified domain via email or API, then determines        if the event should create an incident or not.
+*    In-depth knowledge with the technical implementations of Change Management, Problem Management, Incident Management,           Service Catalog, Configuration Management, Reporting, and Integrations.
+*    Very knowledgeable when it comes to moving data in and out of an instance using import sets and transform maps.
+*    Configured and set up SSO/SAML.
+*    Familiar with many applications including: ITSM, ITBM, CSM, and GRC.
   
-  * Analysing
-  * Modelling
-  * Deploying
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Server"
+  company = "Arizona Broadway Theater"
+  company_url = "https://azbroadway.org/"
+  location = "Arizona"
+  date_start = "2018-02-01"
+  date_end = "2018-09-25"
+  description = """
+
+  Responsibilities include:  
+  <br>
+
+  * Maintained kitchen cleanliness
+  * Serving guests food and beverages before every show
+  * ensuring emloyees are completing daily cleaning tasks
+  * Set tables / re-arrange furniture
+  
+  """
 
 +++
