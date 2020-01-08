@@ -65,4 +65,4 @@ email: "EmbryMaverick@gmail.com"
 # - Visitors
 ---
 
-I am a passionate developer whose focus is on the web & currently ServiceNow. Working with others to create amazing projects is one of the most important tools I've learned over the course of my programming career. Having been able to write clean, organized code has given me the understanding of every small detail that actually goes in to creating something big.
+I am a passionate developer whose focus is on the web & ServiceNow. Working with others to create amazing projects is one of the most important tools I've learned over the course of my programming career, and having been able to write clean, organized code has given me the understanding of every small detail that goes in to creating something big.
