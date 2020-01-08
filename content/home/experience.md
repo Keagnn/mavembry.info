@@ -37,7 +37,7 @@ date_format = "Jan 2006"
 *    In-depth knowledge with the technical implementations of Change Management, Problem Management, Incident Management,           Service Catalog, Configuration Management, Reporting, and Integrations.
 *    Very knowledgeable when it comes to moving data in and out of an instance using import sets and transform maps.
 *    Configured and set up SSO/SAML.
-*    Familiar with many applications including: ITSM, ITBM, CSM, and GRC.
+*    Got my hands dirty with many applications including: ITSM, ITBM, CSM, and GRC.
   
   """
 

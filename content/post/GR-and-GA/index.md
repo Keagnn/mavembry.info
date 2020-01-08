@@ -70,7 +70,7 @@ if(count.next())
 I'm sure there are obvious differentiators by now, but what is really the difference between the two? Can't you just use GlideRecord to retrieve the sum of incident records? Short answer: No.
 <br>
 
-There are alternatives to using GlideAgregate, but the options are slim to none. You can either use the `getRowCount()` method from GlideRecord, or just use GlideAggregate.
+There are alternatives to using GlideAggregate, but the options are slim to none. You can either use the `getRowCount()` method from GlideRecord, or just use GlideAggregate.
 Using GlideRecord to count rows of records will cause scalability issues as tables can grow over time. This method retrieves every record and counts them. GlideAggregate retrieves the data from the actual [MySQL](https://www.mysql.com/) database that's built in to ServiceNow, which is much faster when it comes to performance.
 <br>
 <br>
