@@ -24,6 +24,7 @@ interests:
 - Web Development
 - ServiceNow
 - Working on my car
+- Camping
 
 education:
   courses:
