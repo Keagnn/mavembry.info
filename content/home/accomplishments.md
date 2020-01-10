@@ -49,7 +49,7 @@ date_format = "January 2, 2006"
   title = "Certified Full Stack Web Developer"
   url = "https://credly.com/u/2369886"
   certificate_url = "https://t.cred.ly/MXWRsTjrupXxYjL4msXUTA,,$$$zEpJZrskQOHzybTEC9nC74Nym6HTdrFR0DErRxsDKP6C-QKIIKojz2vysmABbacz-W-07RHqQH7hiJAnJhfGEQ,,?r=https%3A%2F%2Fcredly.com%2Fcredit%2F15071665&t=1532755549&c=lip"
-  date_start = "2016-11-20"
+  date_start = "2018-07-27"
   date_end = ""
   description = ""
 
