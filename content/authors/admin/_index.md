@@ -23,7 +23,7 @@ bio: Web development && ServiceNow
 interests:
 - Web Development
 - ServiceNow
-- Working on my car
+- Cars
 - Camping
 
 education:
