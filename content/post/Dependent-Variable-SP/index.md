@@ -34,7 +34,7 @@ Have you ever had the requirement to create a variable where the options change 
 <h4>If your variables already have a relationship</h4>
 
 To start off, figure out if your two variables already have some sort of relationship. For example: you have two reference
-variables and they are pointed at two different tables `u_computer` and `u_brand`. In the `u_computer` table, let's say there's a field that is referencing the brand table already; You want to show only Dell computers if the person selects **Dell** in your brand variable. If this is your case, your solution is as simple as adding a reference qualifier.
+variables and they are pointed at two different tables `u_computer` and `u_brand`. In the `u_computer` table, let's say there's a field that is referencing the brand table already; You want to show only Dell computers if the person selects **Dell** in your brand variable. If this is your case, your solution is as simple as adding a dynamic reference qualifier.
 
 In your `u_computer` table, you should have a field that is already referencing the `u_brand` table. Get the value, or more specifically, the column name value of this field. For this example, let's call it **u_parent**. Add your reference qualifier to your computer variable like so:
 
@@ -173,6 +173,7 @@ Go in to your sub-category variable, and configure each choice by adding the dep
 ![screenshot](Screenshot.PNG)
 
 Change the **Dependent Value** column to the value of the category choice for each sub-category choice.
+
 </ol>
 </ol>
   
