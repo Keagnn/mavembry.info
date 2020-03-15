@@ -34,7 +34,7 @@ Have you ever had the requirement to create a variable where the options change 
 <h4>If your variables already have a relationship</h4>
 
 To start off, figure out if your two variables already have some sort of relationship. For example: you have two reference
-variables and they are pointed at two different tables `u_computer` and `u_brand`. In the `u_computer` table, let's say there's a field that is referencing the brand table already; You want to show only Dell computers if the person selects **Dell** in your brand variable. If this is your case, your solution is as simple as adding a dynamic reference qualifier.
+variables and they are pointed at two different tables `u_computer` and `u_brand`. In the `u_computer` table, let's say there's a field that is referencing the brand table already - You want to show only Dell computers if the person selects **Dell** in your brand variable. If this is your case, your solution is as simple as adding a dynamic reference qualifier.
 
 In your `u_computer` table, you should have a field that is already referencing the `u_brand` table. Get the value, or more specifically, the column name value of this field. For this example, let's call it **u_parent**. Add your reference qualifier to your computer variable like so:
 
@@ -136,7 +136,7 @@ function onChange(control, oldValue, newValue, isLoading) {
     //Here's where we call the script you just created
     var ga = new GlideAjax('SCVariableLookup');
 
-    //Add the getSubCat function to this paremeter.
+    //Add the getSubCat method to this paremeter.
     //We created this function in the script-include.
     ga.addParam('sysparm_name', 'getSubCat');
 
@@ -168,7 +168,7 @@ Add the dependent values to your choices.
 </li>
 <ol>
 
-Go in to your sub-category variable, and configure each choice by adding the dependent value to each choice. The easiest way to do this is to scroll down to the choices and configure the columns to show the dependent value column.
+Go into your sub-category variable and configure each choice by adding the dependent value to each choice. The easiest way to do this is to scroll down to the choices and configure the columns to show the dependent value column.
 
 ![screenshot](Screenshot.PNG)
 
