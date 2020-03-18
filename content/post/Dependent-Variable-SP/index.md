@@ -48,7 +48,7 @@ This will restrict the options in the computer reference variable to computers t
 
 <h4>If your variables aren't related at all</h4>
 
-In this situation, it can get complicated. If you are not using reference variables and just select-boxes, figure out which variable will be the "category" and which will be the "sub-category".
+In this situation, it can get complicated. If you are not using reference variables and just select-boxes, figure out which variable will be the "category" and which will be the "sub-category". **Important:** make sure you check the "include none" box  under the type specifications tab on your category variable.
 
 <ol>
 <li>
@@ -118,6 +118,7 @@ function onChange(control, oldValue, newValue, isLoading) {
     //Add the NULL option to the sub-category field.
     //We do this because we are completely changing ALL the choices in the field.
     if (isLoading) {
+        g_form.clearOptions('subcategory');
         g_form.addOption('subcategory', 'NULL', '-- None --');
 
         return;
