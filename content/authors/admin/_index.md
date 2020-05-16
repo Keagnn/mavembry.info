@@ -46,7 +46,7 @@ social:
   link: 'mailto:EmbryMaverick@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: github
   icon_pack: fab
-  link: https://github.com/akotu
+  link: https://github.com/keagnn
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/maverickembry/
