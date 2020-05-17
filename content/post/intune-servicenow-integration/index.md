@@ -32,7 +32,7 @@ Unless you are paying for Discovery or IntegrationHub, integrating with ServiceN
 <br>
 <br>
 
-In this guide, I am going to be pulling devices from Intune and importing them into the CMDB. There is very little documentation out there to help you with this integration, so I'm going to provide you step-by-step instructions on setting this up. We will be using Azure to obtain the device data from Intune.
+In this guide, I am going to be pulling devices from Intune and importing them into the CMDB. There is very little documentation out there to help you with this integration, so this will provide you step-by-step instructions on setting this up. We will be using Azure to obtain the device data from Intune.
 <br>
 
 <h6>Azure setup</h6>
