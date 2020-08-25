@@ -44,8 +44,7 @@ Contact your Azure admin to setup an application inside Azure to gain access to 
 <li>Client ID</li>
 </ul>
 
-Make sure the application has the `DeviceManagementManagedDevices.Read.All` permission.
-<br>
+Make sure the app has the `DeviceManagementManagedDevices.Read.All` application & delegated permission.  
 <br>
 
 <h6>Authentication</h6>
