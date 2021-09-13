@@ -24,8 +24,7 @@ date_format = "Jan 2006"
   location = "Texas"
   date_start = "2018-10-08"
   date_end = ""
-  description = """
-  Responsibilities include:  
+  description = """  
   <br>
 
 * Architected & developed a complex catalog with dynamic approvals to expedite requests for reports and
