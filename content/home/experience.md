@@ -28,16 +28,23 @@ date_format = "Jan 2006"
   Responsibilities include:  
   <br>
 
-*    Responsible for communicating and delivering solutions to all Technology Spa clients.
-*    Developed and managed multiple service catalogs with complex workflows and processes.
-*    Configured many complex forms and tables with client scripts, business rules, UI actions and more.
-*    Created catalog items, variable sets, catalog client scripts, workflows, SLA’s, and notifications.
-*    Imported and created countless knowledge articles.
-*    Built an event management application that can receive logs from any specified domain via email or API, then determines        if the event should create an incident or not.
-*    In-depth knowledge with the technical implementations of Change Management, Problem Management, Incident Management,           Service Catalog, Configuration Management, Reporting, and Integrations.
-*    Very knowledgeable when it comes to moving data in and out of an instance using import sets and transform maps.
-*    Configured and set up SSO/SAML.
-*    Got my hands dirty with many applications including: ITSM, ITBM, CSM, and GRC.
+* Architected & developed a complex catalog with dynamic approvals to expedite requests for reports and
+more from an investment tool.
+* Built a light-weight event management solution that provided insight to threats and issues by utilizing
+inbound emails. In return, this allowed IT to remediate critical events and serious outages within minutes
+instead of days.
+* Integrated Microsoft Intune with ServiceNow in order to provide an updated CMDB with Android and
+Windows devices.
+* Integrated Jira with ServiceNow to provide reporting and quicker cross team communication. This integration
+utilized a MID server to achieve sending and receiving attachments.
+* Implemented ITSM for multiple clients while providing best practice guidance.
+* Built an automated PAM (privileged access management) solution which enabled IT users to request
+privileged access for a specific period of time. This saved hundreds of hours of manual administration while
+providing exceptional auditability.
+* Documented all solutions in anticipation of successors, improving long term platform sustainability.
+* Experience developing with the agile methodology while following strict deadlines.
+* Experience using all ServiceNow development components including business rules, client scripts, script
+includes, workflows, flow designer, import sets, UI policies and more.
   
   """
 
