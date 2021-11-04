@@ -78,6 +78,6 @@ _The GlideAggregate class is an extension of GlideRecord and allows database agg
 <br>
 <br>
 
-The disadvantage to using GlideAggregate, is that you are unable to access details in a specific record. In this case, you would use `GlideRecord()` to manipulate/read the fields on any given record.
+The disadvantage to using GlideAggregate, is that you are unable to access details in a specific record. In this case, you would use `GlideRecord()` to manipulate/read the fields on any given record..
 <br>
 <br>
