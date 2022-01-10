@@ -54,7 +54,15 @@ date_format = "January 2, 2006"
   description = ""
 
 
-
+[[item]]
+  organization = "ServiceNow"
+  organization_url = "https://www.servicenow.com/"
+  title = "Certified Application Developer"
+  url = "https://www.servicenow.com/services/training-and-certification/certified-application-developer.html"
+  certificate_url = ""
+  date_start = "2021-12-10"
+  date_end = ""
+  description = ""
 
 
 
