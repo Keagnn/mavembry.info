@@ -17,13 +17,27 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Technical Consultant"
+  company = "GlideFast"
+  company_url = "https://www.glidefast.com/"
+  location = "Remote"
+  date_start = "2021-10-18"
+  date_end = ""
+  description = """
+
+  
+  
+  """
+
 [[experience]]
   title = "ServiceNow Developer"
   company = "Technology Spa"
   company_url = "https://www.technologyspa.com/"
   location = "Texas"
   date_start = "2018-10-08"
-  date_end = ""
+  date_end = "2021-10-15"
   description = """  
   <br>
 
@@ -47,23 +61,5 @@ includes, workflows, flow designer, import sets, UI policies and more.
   
   """
 
-[[experience]]
-  title = "Server"
-  company = "Arizona Broadway Theater"
-  company_url = "https://azbroadway.org/"
-  location = "Arizona"
-  date_start = "2018-02-01"
-  date_end = "2018-09-25"
-  description = """
-
-  Responsibilities include:  
-  <br>
-
-  * Maintained kitchen cleanliness
-  * Serving guests food and beverages before every show
-  * ensuring emloyees are completing daily cleaning tasks
-  * Set tables / re-arrange furniture
-  
-  """
 
 +++
