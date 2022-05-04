@@ -20,11 +20,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Web development && ServiceNow
 
-interests:
-- Web Development
-- ServiceNow
-- Cars
-- Camping
 
 education:
   courses:
