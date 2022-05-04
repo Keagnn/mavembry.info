@@ -21,14 +21,14 @@ organizations:
 bio: Web development && ServiceNow
 
 
-education:
-  courses:
-  - course: Full Stack Web Development
-    institution: University of Arizona
-    year: 2018
-  - course: General Studies
-    institution: Coconino Community College
-    year: 2017
+#education:
+#  courses:
+# - course: Full Stack Web Development
+#    institution: University of Arizona
+#    year: 2018
+#  - course: General Studies
+#    institution: Coconino Community College
+#    year: 2017
   
 
 # Social/Academic Networking
