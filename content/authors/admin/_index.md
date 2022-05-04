@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: ServiceNow Developer / Admin
+role: ServiceNow Developer / Consultant
 
 # Organizations/Affiliations
 organizations:
