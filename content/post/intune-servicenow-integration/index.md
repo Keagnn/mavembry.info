@@ -30,7 +30,7 @@ projects: []
 <br>
  <b>(2023 Update) Before you read:</b> 
  
- If you are considering setting this integration up, I would highly suggest looking into [IntegrationHub ETL](https://docs.servicenow.com/bundle/rome-servicenow-platform/page/product/configuration-management/concept/integrationhub-etl.html). This is a free app from the ServiceNow store and it allows you to ingest 3rd party data into your CMDB which runs through the IRE engine. The solution below is a manual process where you are building the integration from scratch. Feel free to continue if you'd like; just know that the method below does not run your CMDB data through the IRE engine.
+ If you are considering setting this integration up, I would highly suggest looking into [IntegrationHub ETL](https://docs.servicenow.com/bundle/rome-servicenow-platform/page/product/configuration-management/concept/integrationhub-etl.html). This is a free app from the ServiceNow store and it allows you to ingest 3rd party data into your CMDB which runs through the IRE engine. The solution below is a manual process where you are building the integration from scratch. Feel free to continue if you'd like; just know that the method below does not run your CMDB data through the [IRE engine](https://docs.servicenow.com/bundle/rome-servicenow-platform/page/product/configuration-management/concept/ire.html?).
 <br>
 <br>
 
