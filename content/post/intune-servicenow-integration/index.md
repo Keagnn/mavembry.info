@@ -28,11 +28,9 @@ image:
 projects: []
 ---
 <br>
-
- <b>Before you read:</b> If you are considering setting this integration up, I would highly suggest looking into [IntegrationHub ETL](https://docs.servicenow.com/bundle/rome-servicenow-platform/page/product/configuration-management/concept/integrationhub-etl.html). This is a free app from the ServiceNow store and it allows you to ingest 3rd party data into your CMDB which runs through the IRE engine.
-<br>
-<br>
-Unless you are paying for Discovery or IntegrationHub, integrating with ServiceNow can definitely be a confusing task, but who wants to spend money just to create a basic integration? In this topic, I'll discuss how to setup an integration using the Microsoft Graph API.
+ <b>(2023 Update) Before you read:</b> 
+ 
+ If you are considering setting this integration up, I would highly suggest looking into [IntegrationHub ETL](https://docs.servicenow.com/bundle/rome-servicenow-platform/page/product/configuration-management/concept/integrationhub-etl.html). This is a free app from the ServiceNow store and it allows you to ingest 3rd party data into your CMDB which runs through the IRE engine. The solution below is a manual process where you are building the integration from scratch. Feel free to continue if you'd like; just know that the method below does not run your CMDB data through the IRE engine.
 <br>
 <br>
 
