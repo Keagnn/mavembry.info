@@ -38,7 +38,7 @@ bio: Web development && ServiceNow
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:EmbryMaverick@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:EmbryMaverick+personalweb@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: github
   icon_pack: fab
   link: https://github.com/keagnn
@@ -52,7 +52,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "EmbryMaverick@gmail.com"
+email: "EmbryMaverick+personalweb@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -61,4 +61,4 @@ email: "EmbryMaverick@gmail.com"
 # - Visitors
 ---
 
-I am a passionate developer whose focus is on the web & ServiceNow. Working with others to create amazing projects is one of the most important tools I've learned over the course of my programming career. Having been able to write clean, organized code has given me the understanding of every small detail that goes into creating something big.
+I am a dedicated developer specializing in web technologies and ServiceNow. Collaborating with others to bring innovative projects to life has been a cornerstone of my career. My commitment to writing clean, organized code has equipped me with a deep understanding of the intricate details involved in creating impactful solutions.
